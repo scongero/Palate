@@ -1,23 +1,24 @@
 //
-//  PalateViewController.m
+//  MainViewController.m
 //  Palate
 //
-//  Created by Spencer Congero on 11/2/13.
+//  Created by Rahul Madduluri on 11/2/13.
 //  Copyright (c) 2013 Spencer Congero. All rights reserved.
 //
 
-#import "PalateViewController.h"
+#import "MainViewController.h"
 
-@interface PalateViewController ()
+@interface MainViewController ()
 
 @end
 
-@implementation PalateViewController
+@implementation MainViewController
+
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+	// Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning
